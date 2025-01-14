@@ -1,0 +1,1 @@
+# MyShopNetCore6
